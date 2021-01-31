@@ -1,3 +1,3 @@
 #first
 
-this is my first time learning github
+Hello this is my firdst time i am learning github
